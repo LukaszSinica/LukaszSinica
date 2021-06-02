@@ -2,7 +2,8 @@
 - 👀 I’m interested in programming and gaming.
 - 🌱 I’m currently learning React
 - 📫 How to reach me:
-```  Email: sinicalukasz@gmail.com
+```  
+     Email: sinicalukasz@gmail.com
      Linkedin: /in/łukasz-sinica
  ```
 <!---
