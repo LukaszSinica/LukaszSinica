@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LukaszSinica
 - 👀 I’m interested in programming and gaming.
-- 🌱 I’m currently learning React, Kotlin
+- 🌱 I’m currently learning flutter
 - 📫 How to reach me: 
      - Email: sinicalukasz@gmail.com
      - Linkedin: /in/łukasz-sinica
