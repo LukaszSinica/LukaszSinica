@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LukaszSinica
 - 👀 I’m interested in programming and gaming.
-- 🌱 I’m currently learning flutter
+- 🌱 I’m currently learning next, react, typescript
 - 📫 How to reach me: 
      - Email: sinicalukasz@gmail.com
      - Linkedin: /in/lukasz-sinica
