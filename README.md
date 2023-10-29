@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning next, react, typescript
 - 📫 How to reach me: 
      - Email: sinicalukasz@gmail.com
-     - Linkedin: /in/lukasz-sinica
+     - Linkedin: https://www.linkedin.com/in/lukasz-sinica/
 
  ## Current project: 
  ### Todo app
