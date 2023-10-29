@@ -7,7 +7,7 @@
 
  ## Current project: 
  ### Todo app
- stack: Next.js, Typescript, Tailwind CSS, Firebase.     
+ **Stack**: Next.js, Typescript, Tailwind CSS, Firebase.     
  https://github.com/LukaszSinica/todo_app-next
 <!---
 LukaszSinica/LukaszSinica is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
