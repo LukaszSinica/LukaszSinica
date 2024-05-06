@@ -5,10 +5,11 @@
      - Email: sinicalukasz@gmail.com
      - Linkedin: https://www.linkedin.com/in/lukasz-sinica/
 
- ## Current project: 
- ### Todo app
- **Stack**: Next.js, Typescript, Tailwind CSS, Firebase.     
- https://github.com/LukaszSinica/todo_app-next
+## Current project: 
+### Expense app
+*App that will let you track your expenses.*     
+**Stack**: Next.js, Typescript, Tailwind CSS.       
+https://github.com/LukaszSinica/expense-list
 <!---
 LukaszSinica/LukaszSinica is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
