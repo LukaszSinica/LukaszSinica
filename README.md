@@ -6,6 +6,7 @@
      - Linkedin: https://www.linkedin.com/in/lukasz-sinica/
 
 ## Current project: 
+## Finished project: 
 ### Expense app
 *App that will let you track your expenses.*     
 **Stack**: Next.js, Typescript, Tailwind CSS.       
