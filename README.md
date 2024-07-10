@@ -6,6 +6,9 @@
      - Linkedin: https://www.linkedin.com/in/lukasz-sinica/
 
 ## Current project: 
+### Invoice Dashboard     
+**Stack**: Next.js, Typescript, Tailwind CSS, Prisma, Auth.js     
+https://github.com/LukaszSinica/invoice_dashboard     
 ## Finished project: 
 ### Expense app
 *App that will let you track your expenses.*     
