@@ -1,9 +1,22 @@
-- 👋 Hi, I’m @LukaszSinica
-- 👀 I’m interested in programming and gaming.
-- 🌱 I’m currently learning next, react, typescript, java(potentially)
-- 📫 How to reach me: 
-     - Email: sinicalukasz@gmail.com
-     - Linkedin: https://www.linkedin.com/in/lukasz-sinica/
+👋 Hi, I’m Lucas Sinica! I'm Software Engineer focused on learning technologies and creating nice projects.     
+
+## About Me
+With background in tech education, my passion lies in developing software and solutions to problems.
+
+## Technical Skills 🛠️
+- **Languages:** JavaScript, Java, TypeScript, PHP, Dart, 
+- **Frameworks & Libraries:** React, Next.js, Symfony, Laminas, Zend3
+- **Tools & Platforms:** GitHub, Docker
+- 
+## Professional Goals 🚀
+- **Career Development:** Focused on furthering my career in software development.
+- **Continuous Learning:** Committed to ongoing professional development by staying updated with the latest tech trends and advancing my coding skills. 📈
+
+## Connect with Me 📬
+- 📫 [Email](mailto:sinicalukasz@gmail.com)
+- 🔗 [LinkedIn](https://linkedin.com/in/lukasz-sinica)
+
+I’m looking forward to collaborating on projects that are at the intersection of technology and social good. Let’s connect! 🌍
 
 ## Current project: 
 ### Invoice Dashboard     
