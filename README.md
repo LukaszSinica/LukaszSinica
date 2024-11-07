@@ -16,8 +16,6 @@ With background in tech education, my passion lies in developing software and so
 - 📫 [Email](mailto:sinicalukasz@gmail.com)
 - 🔗 [LinkedIn](https://linkedin.com/in/lukasz-sinica)
 
-I’m looking forward to collaborating on projects that are at the intersection of technology and social good. Let’s connect! 🌍
-
 ## Current project: 
 ### Invoice Dashboard     
 **Stack**: Next.js, Typescript, Tailwind CSS, Prisma, Auth.js     
