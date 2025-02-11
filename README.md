@@ -19,7 +19,11 @@ With background in tech education, my passion lies in developing software and so
 ## Current project: 
 ### Invoice Dashboard     
 **Stack**: Next.js, Typescript, Tailwind CSS, Prisma, Auth.js     
-https://github.com/LukaszSinica/invoice_dashboard     
+https://github.com/LukaszSinica/invoice_dashboard  
+### Portfolio v2 (current portfolio)
+**stack**: Next.js, Typescript, Tailwind CSS, shadcn
+[website](https://www.sinicalukasz-it.pl/)
+https://github.com/LukaszSinica/portfoliov2  
 ## Finished project: 
 ### Expense app
 *App that will let you track your expenses.*     
