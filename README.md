@@ -16,7 +16,7 @@ With background in tech education, my passion lies in developing software and so
 - 📫 [Email](mailto:sinicalukasz@gmail.com)
 - 🔗 [LinkedIn](https://linkedin.com/in/lukasz-sinica)
 
-## Current project: 
+## Current projects: 
 ### Invoice Dashboard     
 **Stack**: *Next.js, Typescript, Tailwind CSS, Prisma, Auth.js*  
 https://github.com/LukaszSinica/invoice_dashboard  
