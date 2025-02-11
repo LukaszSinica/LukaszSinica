@@ -1,4 +1,4 @@
-👋 Hi, I’m Lucas Sinica! I'm Software Engineer focused on learning technologies and creating nice projects.     
+👋 Hi, I’m Lucas! I'm Software Engineer focused on learning technologies and creating nice projects.     
 
 ## About Me
 With background in tech education, my passion lies in developing software and solutions to problems.
