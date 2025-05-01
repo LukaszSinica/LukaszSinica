@@ -17,9 +17,9 @@ With background in tech education, my passion lies in developing software and so
 - 🔗 [LinkedIn](https://linkedin.com/in/lukasz-sinica)
 
 ## Current projects: 
-### Invoice Dashboard     
-**Stack**: *Next.js, Typescript, Tailwind CSS, Prisma, Auth.js*  
-https://github.com/LukaszSinica/invoice_dashboard  
+### Posts dashboard     
+**Stack**: *PHP 8.4.5, Symfony, Twig, JavaScript*  
+https://github.com/LukaszSinica/post_api
 ### Portfolio v2 (current portfolio)  
 **Stack**: *Next.js, Typescript, Tailwind CSS, shadcn*    
 [website](https://www.sinicalukasz-it.pl/)  
