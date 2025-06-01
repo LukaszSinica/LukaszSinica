@@ -17,6 +17,12 @@ With background in tech education, my passion lies in developing software and so
 - 🔗 [LinkedIn](https://linkedin.com/in/lukasz-sinica)
 
 ## Current projects: 
+  
+## Finished project: 
+### Expense app
+*App that will let you track your expenses.*     
+**Stack**: Next.js, Typescript, Tailwind CSS.       
+https://github.com/LukaszSinica/expense-list  
 ### Posts dashboard     
 **Stack**: *PHP 8.4.5, Symfony, Twig, JavaScript*  
 https://github.com/LukaszSinica/post_api
@@ -24,11 +30,6 @@ https://github.com/LukaszSinica/post_api
 **Stack**: *Next.js, Typescript, Tailwind CSS, shadcn*    
 [website](https://www.sinicalukasz-it.pl/)  
 https://github.com/LukaszSinica/portfoliov2  
-## Finished project: 
-### Expense app
-*App that will let you track your expenses.*     
-**Stack**: Next.js, Typescript, Tailwind CSS.       
-https://github.com/LukaszSinica/expense-list
 <!---
 LukaszSinica/LukaszSinica is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
